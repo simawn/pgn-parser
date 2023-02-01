@@ -1,6 +1,6 @@
 {
-  "name": "pgn-parser",
-  "version": "2.2.0",
+  "name": "pgn-parser-2",
+  "version": "2.3.0",
   "description": "pgn parser",
   "keywords": [
     "chess",
